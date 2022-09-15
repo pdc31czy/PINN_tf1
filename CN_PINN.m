@@ -1,4 +1,8 @@
-%正确的版本Crank_Nicolson
+%%%%%%%%%%%%%%%%%%%
+%author: Ziyan Chen
+%%%%%%%%%%%%%%%%%%%
+
+%Crank_Nicolson
 %save('CNdata.mat','x','tt','uu','uuExact')
 clc;
 clear all;
