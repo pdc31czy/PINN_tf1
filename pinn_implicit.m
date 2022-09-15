@@ -2,7 +2,7 @@
 %author: Ziyan Chen
 %%%%%%%%%%%%%%%%%%%
 
-%正确的版本_Implicit Scheme
+%Implicit Scheme
 %save('FDMdata.mat','x','tt','uu')
 clc;
 clear all;
